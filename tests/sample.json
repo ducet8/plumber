@@ -1,0 +1,10 @@
+{
+  "name": "Test Fix",
+  "enabled": "True",
+  "trigger": {
+    "source": "trigger1"
+  },
+  "actions": {
+    "action2": {}
+  }
+}
